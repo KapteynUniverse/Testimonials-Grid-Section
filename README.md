@@ -27,9 +27,9 @@ Users should be able to:
 | Desktop View                  | Mobile View                  |
 | ----------------------------- | ---------------------------- |
 | ![](./screenshot/desktop.png) | ![](./screenshot/mobile.png) |
-| Tablet View                  |
-| ---------------------------- |
-| ![](./screenshot/tablet.png) |
+|                           Tablet View                        |
+| ------------------------------------------------------------ |
+| ![](./screenshot/tablet.png)                                 |
 
 ### Links
 
