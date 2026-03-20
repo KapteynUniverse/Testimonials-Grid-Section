@@ -28,7 +28,6 @@ Users should be able to:
 | ----------------------------- | ---------------------------- |
 | ![](./screenshot/desktop.png) | ![](./screenshot/mobile.png) |
 |                           Tablet View                        |
-| ------------------------------------------------------------ |
 | ![](./screenshot/tablet.png)                                 |
 
 ### Links
