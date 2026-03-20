@@ -24,9 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-| Desktop View                  | Tablet View                  | Mobile View                  |
-| ----------------------------- | ---------------------------- | ---------------------------- |
-| ![](./screenshot/desktop.png) | ![](./screenshot/tablet.png) | ![](./screenshot/mobile.png) |
+| Desktop View                  | Mobile View                  |
+| ----------------------------- | ---------------------------- |
+| ![](./screenshot/desktop.png) | ![](./screenshot/mobile.png) |
+| Tablet View                  |
+| ---------------------------- |
+| ![](./screenshot/tablet.png) |
 
 ### Links
 
@@ -50,7 +53,7 @@ While building this project, I improved my understanding of:
 
 - Structuring content using semantic HTML elements like `<article>`, and `<blockquote>`
 
-- When and how to properly use the <blockquote> element
+- When and how to properly use the `<blockquote>` element
 
 - Combining CSS Grid and Flexbox for complex responsive layouts
 
@@ -58,8 +61,8 @@ While building this project, I improved my understanding of:
 
 ### Useful resources
 
-- [The Block Quotation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote) : Helped me understand when to use <blockquote> and how it affects semantics and accessibility.
-- [](https://mimo.org/glossary/html/blockquote) : A simpler explanation that reinforced the concept of quoted content in HTML.
+- [The Block Quotation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote) : Helped me understand when to use `<blockquote>` and how it affects semantics and accessibility.
+- [Mimo - Blockquote](https://mimo.org/glossary/html/blockquote) : A simpler explanation that reinforced the concept of quoted content in HTML.
 
 ## Author
 
